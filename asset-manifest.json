@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameVault/static/css/main.97bee355.css",
+    "main.js": "/GameVault/static/js/main.8134dd9c.js",
+    "static/js/453.20359781.chunk.js": "/GameVault/static/js/453.20359781.chunk.js",
+    "index.html": "/GameVault/index.html",
+    "main.97bee355.css.map": "/GameVault/static/css/main.97bee355.css.map",
+    "main.8134dd9c.js.map": "/GameVault/static/js/main.8134dd9c.js.map",
+    "453.20359781.chunk.js.map": "/GameVault/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97bee355.css",
+    "static/js/main.8134dd9c.js"
+  ]
+}
