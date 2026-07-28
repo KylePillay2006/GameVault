@@ -6,6 +6,10 @@ frontend/node_modules/
 backend/.env
 frontend/.env
 
+# SSL Certificates (CRITICAL - add this!)
+backend/certificates/
+frontend/certificates/
+
 # Logs
 *.log
 npm-debug.log*
